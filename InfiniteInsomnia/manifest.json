@@ -1,0 +1,10 @@
+{
+  "Name": "Infinite Insomnia",
+  "author": "The Lost Fae",
+  "version": "1.0.0",
+  "Description": "Allows the player to stay up infinitely without passing out, but limits max stamina until they sleep.",
+  "UniqueID": "TheLostFae.InfiniteInsomnia",
+  "EntryDll": "InfiniteInsomnia.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
